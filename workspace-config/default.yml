@@ -1,0 +1,5 @@
+aws_region: "eu-west-1"
+account: undefined
+service_name: "terraform-snitcher"
+owner: "ualter"
+stage: undefined
